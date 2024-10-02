@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77506fa3.css",
+    "main.js": "/static/js/main.3de94941.js",
+    "static/media/Banner-Web-Republica.gif": "/static/media/Banner-Web-Republica.e5cf8b60eda2257033c4.gif",
+    "static/media/BannerPirataAnimado.jpeg": "/static/media/BannerPirataAnimado.acffc8b7e842afb89508.jpeg",
+    "static/media/hablemos-de-belgrano.png": "/static/media/hablemos-de-belgrano.59b0ca08248dd4885353.png",
+    "static/media/banner.jpg": "/static/media/banner.88de5517311b640fad72.jpg",
+    "static/media/suscribite-al-canal.webp": "/static/media/suscribite-al-canal.0001057ebfef06fba5f3.webp",
+    "index.html": "/index.html",
+    "main.77506fa3.css.map": "/static/css/main.77506fa3.css.map",
+    "main.3de94941.js.map": "/static/js/main.3de94941.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77506fa3.css",
+    "static/js/main.3de94941.js"
+  ]
+}
